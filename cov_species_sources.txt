@@ -1,0 +1,82 @@
+SARS-CoV
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2857293/
+Rousettus aegyptiacus (African)
+Mops condylurus (African)
+Lyssonycteris angolensis (African)
+Hypsignathus monstrosus (African)
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC546586/
+Miniopterus pusillus (Asian)
+Miniopterus schreibersii (Asian)
+Miniopterus magnater (Asian)
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5708621/
+Rhinolophus sinicus (Asian)
+Rhinolophus ferrumequinum (Asian)
+Rhinolophus affinis (Asian)
+Aselliscus stoliczkanus (Asian)
+
+https://pubmed.ncbi.nlm.nih.gov/19287830/
+Desmodus rotundus (South America)
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2634629/
+Carollia perspicillata (South America)
+Glossophaga soricina (South America)
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2857301/
+Myotis occultus (North America)
+Eptesicus fuscus (North America)
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2570906/
+Myotis bechsteinii (Europe)
+Myotis dasycneme (Europe)
+Myotis daubentonii (Europe)
+Pipistrellus nathusii (Europe)
+Pipistrellus pygmaeus (Europe)
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2819850/
+Hipposideros ruber (African)
+Hipposideros caffer (African)
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1563713/
+Rhinolophus pearsonii (Asian)
+Rhinolophus macrotis (Asian)
+Pipistrellus pipistrellus (Asian)
+Pipstrellus abramus (Asian)
+Scotophilus kuhlii (Asian)
+Myotis ricketti (Asian)
+Tylonycteris pachypus (Asian)
+Miniopterus schreibersi (Asian)
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1797546/
+Rousettus lechenaulti (Asian)
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7111821/
+Pipistrellus abramus (Asian)
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2681120/
+Cardioderma cor (African)
+Chaerephon pumilus (African)
+Eidolon helvum (African)
+Hipposideros commersoni (African)
+Miniopterus africanus (African)
+Miniopterus inflatus (African)
+Miniopterus minor (African)
+Otomops martinsseni (African)
+
+https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0230802
+Scotophilus heathii (Asian)
+Chaerephon plicatus (Asian)
+Hipposideros larvatus (Asian)
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7088394/
+Rhinolophus clivosus (African)
+Myonicteris angolensis (African)
+Epomophorus labiatus (African)
+
+SARS-CoV-2
+
+https://www.biorxiv.org/content/10.1101/2020.05.31.116061v1.full.pdf
+Rhinolophus spp. (Asian)
+
