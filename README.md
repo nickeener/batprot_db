@@ -14,7 +14,7 @@ Bats are currently suspected as the most likely vector for the transmission of t
 
 ## Column Descriptions
 
-The main datafile has a total of nine columns:
+The main datafile (batprot_db.zip) is a tabular file with a total of nine columns:
 
 **Protein** - Protein name
 
